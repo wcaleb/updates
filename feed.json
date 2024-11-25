@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://wcaleb.micro.blog/2024/11/25/updated-some-notes.html",
+				
+				"content_html": "<p>Updated some notes in my open research notebook: <a href=\"http://wiki.wcaleb.rice.edu/_diff/WPA%20Files%20at%20HHRC?to=ca6e1b3756648a8938246f364d778a8accf1a9fb\">WPA Files at HHRC</a>.</p>\n",
+				"content_text": "Updated some notes in my open research notebook: [WPA Files at HHRC](http://wiki.wcaleb.rice.edu/_diff/WPA%20Files%20at%20HHRC?to=ca6e1b3756648a8938246f364d778a8accf1a9fb).\n",
+				"date_published": "2024-11-25T08:24:11-06:00",
+				"url": "https://updates.wcaleb.org/2024/11/25/updated-some-notes.html"
+			},
+			{
+				"id": "http://wcaleb.micro.blog/2024/11/23/doing-some-more.html",
+				
+				"content_html": "<p>Doing some more research today at the Julia Ideson Building in downtown Houston.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Doing some more research today at the Julia Ideson Building in downtown Houston. \n\n<img src=\"uploads/2024/9522aae663.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-23T14:02:19-06:00",
+				"url": "https://updates.wcaleb.org/2024/11/23/doing-some-more.html"
+			},
+			{
 				"id": "http://wcaleb.micro.blog/2024/11/19/updated-some-notes.html",
 				
 				"content_html": "<p>Updated some notes in my open research notebook: <a href=\"http://wiki.wcaleb.rice.edu/_diff/State%20Fairs%20in%20Reconstruction?to=14b631bb776bdd2ee3bfbd9fde06679f760e40de\">State Fairs in Reconstruction</a>.</p>\n",
