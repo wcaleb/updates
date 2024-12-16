@@ -25,6 +25,70 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://updates.wcaleb.org/2024/12/16/updated-some-notes.html" class="u-url"><time class="dt-published" datetime="2024-12-16 11:42:20 -0600">Dec 16, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Updated some notes in my open research notebook: <a href="http://wiki.wcaleb.rice.edu/_diff/State%20Fairs%20in%20Reconstruction?to=1cc18f66f951e58327ddde6a78bb1a1d521cd2d9">State Fairs in Reconstruction</a>, <a href="http://wiki.wcaleb.rice.edu/_diff/brown2015?to=1cc18f66f951e58327ddde6a78bb1a1d521cd2d9">brown2015</a>, <a href="http://wiki.wcaleb.rice.edu/_diff/stroup2019?to=1cc18f66f951e58327ddde6a78bb1a1d521cd2d9">stroup2019</a>.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://updates.wcaleb.org/2024/12/13/saddened-to-read.html" class="u-url"><time class="dt-published" datetime="2024-12-13 15:54:59 -0600">Dec 13, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Saddened to read in the <a href="https://www.houstonchronicle.com/news/houston-texas/transportation/article/janis-scott-bus-lady-dies-19976099.php">Houston Chronicle</a> about the death of Janis Scott, Rice Class of 1974. She was a trailblazer in the university&rsquo;s history, a <a href="https://kinder.rice.edu/urbanedge/what-transit-equity-means-transit-dependent-rider-car-centric-city">tireless advocate for equity in transportation</a>, and a lifelong scholar who regularly attended campus talks. She will be greatly missed.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://updates.wcaleb.org/2024/12/13/im-contemplating-proposing.html" class="u-url"><time class="dt-published" datetime="2024-12-13 15:42:33 -0600">Dec 13, 2024</time></a>
+
+		<div class="e-content">
+			 <p>I&rsquo;m contemplating proposing a new future course titled &ldquo;The First Gilded Age.&rdquo;</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://updates.wcaleb.org/2024/12/13/turning-omeka-classic.html">Turning Omeka Classic into a Static Site</a></h1>
+		
+
+		<a href="https://updates.wcaleb.org/2024/12/13/turning-omeka-classic.html" class="u-url"><time class="dt-published" datetime="2024-12-13 11:57:31 -0600">Dec 13, 2024</time></a>
+
+		<div class="e-content">
+			 <p>More than a decade ago now, I started an Omeka Classic website to host a small collection of primary sources related to my research. But several years have passed since I was actively updating it, and in the meantime, my sysadmin started nudging me to address various errors it was throwing on my server. So yesterday I spent a few hours converting my Omeka collection into a static site.</p>
+<p>The result: what used to look <a href="https://web.archive.org/web/20240606142414/http://wcaleb.rice.edu/omeka/">like this</a> now looks <a href="http://wcaleb.rice.edu/omeka/">like this</a>.</p>
+<p>A dynamic website engine like Omeka was probably always more complex and high-maintenance than what I needed for this small <a href="https://maggieappleton.com/garden-history">digital garden</a>. And I will shed no tears over moving away from mySQL and PHP. But I did want to maintain the metadata and the permalinks for the sources and few collections I had planted there.</p>
+<p>I link extensively to some of the items I was keeping in Omeka in <a href="http://wiki.wcaleb.rice.edu">my open research notebook</a>. The site also included some key sources for <a href="http://wcaleb.org/books/sweet-taste-of-liberty">my latest book</a>: namely, the newspaper articles containing two <a href="http://wcaleb.rice.edu/omeka/collections/show/9/">interviews with Henrietta Wood</a>.  Plus, I occasionally hear from genealogists who are doing research on their families, including ancestors who may have been enslaved, and they are glad to find some of these primary sources. Just this week, <a href="http://wiki.wcaleb.rice.edu/@John%20C.%20Moore">someone left a comment on my notebook about John C. Moore</a>, some of whose correspondence is in a <a href="http://wcaleb.rice.edu/omeka/collections/show/2/">Weeks Family collection</a> I was keeping in Omeka. I wanted these resources to continue living on the open web, with the stable URLs where people expect to find them, but without having to wrangle databases and Omeka upgrades.</p>
+<p>My solution was a little bit eccentric and maybe more difficult than it needed to be. I used <code>wget</code> to download all of the &ldquo;item&rdquo; pages from Omeka. I used <code>pandoc</code> and <code>vim</code> to convert the static html I downloaded into Markdown and clean up lint and eliminate formatting. I also used <code>vim</code> to change URLs in links that needed changing. Then I used <code>11ty</code> (a highly customizable <a href="https://www.11ty.dev/">static site generator</a>) to serve those Markdown files as a static site, with permalinks that would still be the same as they were on the old Omeka install. Because Omeka had placed all image and PDF files into a static directory on my server, the absolute URLs to all those files still work the same.</p>
+<p>The most tedious part was probably updating the YAML metadata for <code>11ty</code> and reproducing the functionality of Omeka&rsquo;s &ldquo;collections.&rdquo; Basically, I tagged all the items in each collection using the <code>11ty</code> metadata block, so that I could then generate a static index page of each collection with links to the items it contained.</p>
+<p>Maybe one of these days I&rsquo;ll work on making the styling a little nicer. And my method probably was helped by the fact that I didn&rsquo;t have a huge Omeka database, maybe 170 items in all. But for less than a day&rsquo;s work, I&rsquo;m pretty happy with <a href="http://wcaleb.rice.edu/omeka/">how it turned out</a>.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://updates.wcaleb.org/2024/12/11/i-was-curious.html" class="u-url"><time class="dt-published" datetime="2024-12-11 12:40:47 -0600">Dec 11, 2024</time></a>
+
+		<div class="e-content">
+			 <p>I was curious about whether my domain registrar had future plans to support automatic connection to Bluesky, the way it currently does to Micro.blog. When I asked the online chat support, the response was: &ldquo;I&rsquo;m sorry, but what is Bluesky?&rdquo;</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://updates.wcaleb.org/2024/12/09/chatgpt-it-turns.html" class="u-url"><time class="dt-published" datetime="2024-12-09 15:35:08 -0600">Dec 9, 2024</time></a>
 
 		<div class="e-content">
