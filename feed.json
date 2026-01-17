@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://wcaleb.micro.blog/2026/01/17/updated-some-notes-in-my.html",
+				
+				"content_html": "<p>Updated some notes in my open research notebook: <a href=\"http://wiki.wcaleb.rice.edu/_diff/Elias%20Dibble?to=1f1a4680e0e1c7479abaecd88ededa895ac28d93\">Elias Dibble</a>, <a href=\"http://wiki.wcaleb.rice.edu/_diff/Houston%20Fire%20Festival?to=1f1a4680e0e1c7479abaecd88ededa895ac28d93\">Houston Fire Festival</a>.</p>\n",
+				"content_text": "Updated some notes in my open research notebook: [Elias Dibble](http://wiki.wcaleb.rice.edu/_diff/Elias%20Dibble?to=1f1a4680e0e1c7479abaecd88ededa895ac28d93), [Houston Fire Festival](http://wiki.wcaleb.rice.edu/_diff/Houston%20Fire%20Festival?to=1f1a4680e0e1c7479abaecd88ededa895ac28d93).\n",
+				"date_published": "2026-01-17T11:40:52-06:00",
+				"url": "https://updates.wcaleb.org/2026/01/17/updated-some-notes-in-my.html"
+			},
+			{
 				"id": "http://wcaleb.micro.blog/2026/01/16/yesterday-i-learned-that-pandoc.html",
 				
 				"content_html": "<p>Yesterday I learned that <a href=\"https://pandoc.org\">Pandoc</a> can create PowerPoint presentations from markdown. It&rsquo;s old news apparently, one of those updates that I missed as everything descended into &ldquo;pandemic time,&rdquo; but this should be very helpful for me. For the last dozen years or so, I&rsquo;ve been using Pandoc to make LaTeX beamer presentations for my class lectures, through a clunky workflow that has gotten more unwieldy over time. This will simplify my work considerably. Meanwhile, Pandoc&rsquo;s wonders never cease.</p>\n",
