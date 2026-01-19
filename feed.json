@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://wcaleb.micro.blog/2026/01/19/its-a-good-day-to.html",
+				
+				"content_html": "<p>It&rsquo;s a good day to be tuned in to <a href=\"https://ktsuradio.com\">KTSU 90.9</a>, The Choice.</p>\n",
+				"content_text": "It's a good day to be tuned in to [KTSU 90.9](https://ktsuradio.com), The Choice.\n",
+				"date_published": "2026-01-19T11:11:03-06:00",
+				"url": "https://updates.wcaleb.org/2026/01/19/its-a-good-day-to.html"
+			},
+			{
+				"id": "http://wcaleb.micro.blog/2026/01/17/looking-forward-to-monday-evening.html",
+				
+				"content_html": "<p>Looking forward to Monday evening at Brazos Bookstore! <a href=\"https://brazosbookstore.com/event/2026-01-19/w-caleb-mcdaniel-and-alexander-x-byrd-slavery-segregation-and-second-founding-rice\">Read more …</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Looking forward to Monday evening at Brazos Bookstore! [Read more …](https://brazosbookstore.com/event/2026-01-19/w-caleb-mcdaniel-and-alexander-x-byrd-slavery-segregation-and-second-founding-rice)\n\n<img src=\"uploads/2026/8826c30b09.png\" width=\"480\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-01-17T18:33:19-06:00",
+				"url": "https://updates.wcaleb.org/2026/01/17/looking-forward-to-monday-evening.html"
+			},
+			{
 				"id": "http://wcaleb.micro.blog/2026/01/17/updated-some-notes-in-my.html",
 				
 				"content_html": "<p>Updated some notes in my open research notebook: <a href=\"http://wiki.wcaleb.rice.edu/_diff/Elias%20Dibble?to=1f1a4680e0e1c7479abaecd88ededa895ac28d93\">Elias Dibble</a>, <a href=\"http://wiki.wcaleb.rice.edu/_diff/Houston%20Fire%20Festival?to=1f1a4680e0e1c7479abaecd88ededa895ac28d93\">Houston Fire Festival</a>.</p>\n",
