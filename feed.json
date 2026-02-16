@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://wcaleb.micro.blog/2026/02/16/delighted-to-learn-this-morning.html",
+				
+				"content_html": "<p>Delighted to learn this morning that a journal article I wrote on the first Juneteenth, expanding on <a href=\"http://wcaleb.org/blog/first-juneteenth-houston\">research that I first shared here</a>, will likely be published in time for this year&rsquo;s holiday.</p>\n",
+				"content_text": "Delighted to learn this morning that a journal article I wrote on the first Juneteenth, expanding on [research that I first shared here](http://wcaleb.org/blog/first-juneteenth-houston), will likely be published in time for this year's holiday.\n",
+				"date_published": "2026-02-16T15:43:07-06:00",
+				"url": "https://updates.wcaleb.org/2026/02/16/delighted-to-learn-this-morning.html"
+			},
+			{
+				"id": "http://wcaleb.micro.blog/2026/02/14/updated-some-notes-in-my.html",
+				
+				"content_html": "<p>Updated some notes in my open research notebook: <a href=\"http://wiki.wcaleb.rice.edu/_diff/J.%20H.%20Townsend?to=49f46244dad6d9f5a659b32b9e9d01471d460b58\">J. H. Townsend</a>.</p>\n",
+				"content_text": "Updated some notes in my open research notebook: [J. H. Townsend](http://wiki.wcaleb.rice.edu/_diff/J.%20H.%20Townsend?to=49f46244dad6d9f5a659b32b9e9d01471d460b58).\n",
+				"date_published": "2026-02-14T10:56:56-06:00",
+				"url": "https://updates.wcaleb.org/2026/02/14/updated-some-notes-in-my.html"
+			},
+			{
 				"id": "http://wcaleb.micro.blog/2026/02/13/my-amazing-woodworking-dad-previously.html",
 				
 				"content_html": "<p>My amazing woodworking dad (previously seen <a href=\"https://updates.wcaleb.org/2025/01/29/my-woodworking-dad-surprised-me.html\">here</a>) made us an amazing birdhouse for the backyard. Here’s hoping it catches the eye of a pair looking to nest.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +58,7 @@
 				"id": "http://wcaleb.micro.blog/2026/02/11/ill-be-at-kindred-stories.html",
 				
 				"content_html": "<p>I&rsquo;ll be at <a href=\"https://kindredstorieshtx.com/products/irl-author-talk-slavery-segregation-and-the-second-founding-of-rice-university-with-alexander-x-byrd-and-w-caleb-mcdaniel-february-11-7pm\">Kindred Stories</a> tonight with Alex Byrd and April Frazier to talk about <em>Slavery, Segregation, and the Second Founding of Rice University.</em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'll be at [Kindred Stories](https://kindredstorieshtx.com/products/irl-author-talk-slavery-segregation-and-the-second-founding-of-rice-university-with-alexander-x-byrd-and-w-caleb-mcdaniel-february-11-7pm) tonight with Alex Byrd and April Frazier to talk about *Slavery, Segregation, and the Second Founding of Rice University.*\n\n<img src=\"uploads/2026/byrd-mcdaniel-frazier-kindred-event.jpg\" width=\"589\" height=\"600\" alt=\"\">\n",
+				"content_text": "I'll be at [Kindred Stories](https://kindredstorieshtx.com/products/irl-author-talk-slavery-segregation-and-the-second-founding-of-rice-university-with-alexander-x-byrd-and-w-caleb-mcdaniel-february-11-7pm) tonight with Alex Byrd and April Frazier to talk about *Slavery, Segregation, and the Second Founding of Rice University.*\n\n<img src=\"https://updates.wcaleb.org/uploads/2026/byrd-mcdaniel-frazier-kindred-event.jpg\" width=\"589\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-02-11T10:04:07-06:00",
 				"url": "https://updates.wcaleb.org/2026/02/11/ill-be-at-kindred-stories.html"
 			},
