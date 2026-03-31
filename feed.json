@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://wcaleb.micro.blog/2026/03/31/the-bridge.html",
+				
+				"content_html": "<p><a href=\"https://www.nps.gov/places/alabama-the-edmund-pettus-bridge.htm\">The bridge</a>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[The bridge](https://www.nps.gov/places/alabama-the-edmund-pettus-bridge.htm).\n\n<img src=\"uploads/2026/4f844c7ba7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-03-31T13:38:27-05:00",
+				"url": "https://updates.wcaleb.org/2026/03/31/the-bridge.html"
+			},
+			{
+				"id": "http://wcaleb.micro.blog/2026/03/31/tonight-i-will-be-at.html",
+				
+				"content_html": "<p>Tonight I will be at the <a href=\"https://newsouthbookstore.com/event/2026-03-31/w-caleb-mcdaniel-sweet-taste-liberty-true-story-slavery-and-restitution-america\">NewSouth Bookstore</a> in Montgomery, Alabama, to talk about <em>Sweet Taste of Liberty.</em></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tonight I will be at the [NewSouth Bookstore](https://newsouthbookstore.com/event/2026-03-31/w-caleb-mcdaniel-sweet-taste-liberty-true-story-slavery-and-restitution-america) in Montgomery, Alabama, to talk about *Sweet Taste of Liberty.*\n\n<img src=\"uploads/2026/new-south-bookstore-event-flyer.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2026-03-31T09:10:09-05:00",
+				"url": "https://updates.wcaleb.org/2026/03/31/tonight-i-will-be-at.html"
+			},
+			{
+				"id": "http://wcaleb.micro.blog/2026/03/30/a-bus-ride-in-montgomery.html",
+				"title": "A Bus Ride in Montgomery",
+				"content_html": "<p>Today I took the shuttle from the Equal Justice Initiative’s Legacy Museum to the National Memorial for Peace and Justice, which was as powerful in person as everyone who has visited said it would be.</p>\n<p>On the ride, a guest in the back of the shuttle, a Montgomery local, began speaking to those around him about how much Bryan Stevenson’s development work has transformed the city.</p>\n<p>The driver spoke up then to say that Stevenson’s legal work has been transformative too.</p>\n<p>He proceeded to share his (the driver’s) personal story of justice denied and restored. Stevenson’s work had secured his own release from prison, his discharge from parole, and only a year or so ago, a complete pardon, allowing him to vote for the first time.</p>\n<p>The back row guest spoke up again, this time to say, “Sir, I remember you. <em>I was on that parole board.</em>”</p>\n",
+				"content_text": "Today I took the shuttle from the Equal Justice Initiative’s Legacy Museum to the National Memorial for Peace and Justice, which was as powerful in person as everyone who has visited said it would be.\n\nOn the ride, a guest in the back of the shuttle, a Montgomery local, began speaking to those around him about how much Bryan Stevenson’s development work has transformed the city.\n\nThe driver spoke up then to say that Stevenson’s legal work has been transformative too.\n\nHe proceeded to share his (the driver’s) personal story of justice denied and restored. Stevenson’s work had secured his own release from prison, his discharge from parole, and only a year or so ago, a complete pardon, allowing him to vote for the first time.\n\nThe back row guest spoke up again, this time to say, “Sir, I remember you. _I was on that parole board._”\n",
+				"date_published": "2026-03-30T15:54:35-05:00",
+				"url": "https://updates.wcaleb.org/2026/03/30/a-bus-ride-in-montgomery.html"
+			},
+			{
 				"id": "http://wcaleb.micro.blog/2026/03/30/im-in-montgomery-today-visiting.html",
 				
 				"content_html": "<p>I’m in Montgomery today visiting the EJI Legacy Museum and seeing historic sites. I don’t think I had previously appreciated just how close Dexter Avenue Baptist Church is to the state capitol.</p>\n<!-- raw HTML omitted -->\n",
