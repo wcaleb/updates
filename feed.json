@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://wcaleb.micro.blog/2026/04/23/a-student-in-my-civil.html",
+				
+				"content_html": "<p>A student in my Civil War history course  brought by an interesting artifact she once found in a Baltimore used book store. It appears to be a scrapbook kept by a journalist during the 1860s, with an index of topics in the front. Very cool!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A student in my Civil War history course  brought by an interesting artifact she once found in a Baltimore used book store. It appears to be a scrapbook kept by a journalist during the 1860s, with an index of topics in the front. Very cool!\n\n<img src=\"uploads/2026/ff487c3a49.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2026-04-23T16:02:53-05:00",
+				"url": "https://updates.wcaleb.org/2026/04/23/a-student-in-my-civil.html"
+			},
+			{
 				"id": "http://wcaleb.micro.blog/2026/04/18/maybe-its-the-historian-in.html",
 				
 				"content_html": "<p>Maybe it’s the historian in me, but one of the things I like about Record Store Day is the occasional opportunity to relive the experience of hearing music for the first time on a physical medium, never before available or streamed. I’m old enough to remember that being the way of things, so maybe it’s nostalgia at work. But either way, the newly released Roy Hargrove concert album <em>Bern</em> (recommended <a href=\"https://thegig.substack.com/p/a-roy-hargrove-quintet-reunion\">here</a> by Nate Chinen, who wrote the liner notes) was worth the hour-long wait in line.</p>\n",
@@ -26,15 +34,23 @@
 				"id": "http://wcaleb.micro.blog/2026/04/13/we-all-have-our-coping.html",
 				
 				"content_html": "<p>We all have our coping mechanisms!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We all have our coping mechanisms! \n\n<img src=\"https://updates.wcaleb.org/uploads/2026/7123d7f672.jpg\" width=\"600\" height=\"317\" alt=\"\">\n",
+				"content_text": "We all have our coping mechanisms! \n\n<img src=\"uploads/2026/7123d7f672.jpg\" width=\"600\" height=\"317\" alt=\"\">\n",
 				"date_published": "2026-04-13T11:19:40-05:00",
 				"url": "https://updates.wcaleb.org/2026/04/13/we-all-have-our-coping.html"
+			},
+			{
+				"id": "http://wcaleb.micro.blog/2026/04/03/updated-some-notes-in-my.html",
+				
+				"content_html": "<p>Updated some notes in my open research notebook: <a href=\"http://wiki.wcaleb.rice.edu/_diff/Arlington%20House?to=5be9500e3cfb7a8d39fc98fb60219e8c1ed322ea\">Arlington House</a>.</p>\n",
+				"content_text": "Updated some notes in my open research notebook: [Arlington House](http://wiki.wcaleb.rice.edu/_diff/Arlington%20House?to=5be9500e3cfb7a8d39fc98fb60219e8c1ed322ea).\n",
+				"date_published": "2026-04-03T15:32:04-05:00",
+				"url": "https://updates.wcaleb.org/2026/04/03/updated-some-notes-in-my.html"
 			},
 			{
 				"id": "http://wcaleb.micro.blog/2026/03/31/the-bridge.html",
 				
 				"content_html": "<p><a href=\"https://www.nps.gov/places/alabama-the-edmund-pettus-bridge.htm\">The bridge</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[The bridge](https://www.nps.gov/places/alabama-the-edmund-pettus-bridge.htm).\n\n<img src=\"uploads/2026/4f844c7ba7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "[The bridge](https://www.nps.gov/places/alabama-the-edmund-pettus-bridge.htm).\n\n<img src=\"https://updates.wcaleb.org/uploads/2026/4f844c7ba7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-31T13:38:27-05:00",
 				"url": "https://updates.wcaleb.org/2026/03/31/the-bridge.html"
 			},
