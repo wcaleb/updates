@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://wcaleb.micro.blog/2026/05/05/i-never-know-how-to.html",
+				
+				"content_html": "<p>I never know how to respond when the robot coffee machine in the business school asks me how my day is going.</p>\n",
+				"content_text": "I never know how to respond when the robot coffee machine in the business school asks me how my day is going.\n",
+				"date_published": "2026-05-05T09:00:49-05:00",
+				"url": "https://updates.wcaleb.org/2026/05/05/i-never-know-how-to.html"
+			},
+			{
 				"id": "http://wcaleb.micro.blog/2026/04/23/a-student-in-my-civil.html",
 				
 				"content_html": "<p>A student in my Civil War history course  brought by an interesting artifact she once found in a Baltimore used book store. It appears to be a scrapbook kept by a journalist during the 1860s, with an index of topics in the front. Very cool!</p>\n<!-- raw HTML omitted -->\n",
@@ -50,7 +58,7 @@
 				"id": "http://wcaleb.micro.blog/2026/03/31/the-bridge.html",
 				
 				"content_html": "<p><a href=\"https://www.nps.gov/places/alabama-the-edmund-pettus-bridge.htm\">The bridge</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[The bridge](https://www.nps.gov/places/alabama-the-edmund-pettus-bridge.htm).\n\n<img src=\"https://updates.wcaleb.org/uploads/2026/4f844c7ba7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "[The bridge](https://www.nps.gov/places/alabama-the-edmund-pettus-bridge.htm).\n\n<img src=\"uploads/2026/4f844c7ba7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-31T13:38:27-05:00",
 				"url": "https://updates.wcaleb.org/2026/03/31/the-bridge.html"
 			},
@@ -58,7 +66,7 @@
 				"id": "http://wcaleb.micro.blog/2026/03/31/tonight-i-will-be-at.html",
 				
 				"content_html": "<p>Tonight I will be at the <a href=\"https://newsouthbookstore.com/event/2026-03-31/w-caleb-mcdaniel-sweet-taste-liberty-true-story-slavery-and-restitution-america\">NewSouth Bookstore</a> in Montgomery, Alabama, to talk about <em>Sweet Taste of Liberty.</em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tonight I will be at the [NewSouth Bookstore](https://newsouthbookstore.com/event/2026-03-31/w-caleb-mcdaniel-sweet-taste-liberty-true-story-slavery-and-restitution-america) in Montgomery, Alabama, to talk about *Sweet Taste of Liberty.*\n\n<img src=\"https://updates.wcaleb.org/uploads/2026/new-south-bookstore-event-flyer.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Tonight I will be at the [NewSouth Bookstore](https://newsouthbookstore.com/event/2026-03-31/w-caleb-mcdaniel-sweet-taste-liberty-true-story-slavery-and-restitution-america) in Montgomery, Alabama, to talk about *Sweet Taste of Liberty.*\n\n<img src=\"uploads/2026/new-south-bookstore-event-flyer.png\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2026-03-31T09:10:09-05:00",
 				"url": "https://updates.wcaleb.org/2026/03/31/tonight-i-will-be-at.html"
 			},
@@ -74,7 +82,7 @@
 				"id": "http://wcaleb.micro.blog/2026/03/30/im-in-montgomery-today-visiting.html",
 				
 				"content_html": "<p>I’m in Montgomery today visiting the EJI Legacy Museum and seeing historic sites. I don’t think I had previously appreciated just how close Dexter Avenue Baptist Church is to the state capitol.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m in Montgomery today visiting the EJI Legacy Museum and seeing historic sites. I don’t think I had previously appreciated just how close Dexter Avenue Baptist Church is to the state capitol. \n\n<img src=\"https://updates.wcaleb.org/uploads/2026/95717db1fd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I’m in Montgomery today visiting the EJI Legacy Museum and seeing historic sites. I don’t think I had previously appreciated just how close Dexter Avenue Baptist Church is to the state capitol. \n\n<img src=\"uploads/2026/95717db1fd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-30T13:16:51-05:00",
 				"url": "https://updates.wcaleb.org/2026/03/30/im-in-montgomery-today-visiting.html"
 			},
@@ -114,7 +122,7 @@
 				"id": "http://wcaleb.micro.blog/2026/03/17/spring-break-means-im-working.html",
 				
 				"content_html": "<p>Spring Break means I’m working from home with records on.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spring Break means I’m working from home with records on. \n\n<img src=\"https://updates.wcaleb.org/uploads/2026/399f4e98a9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Spring Break means I’m working from home with records on. \n\n<img src=\"uploads/2026/399f4e98a9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-17T08:48:14-05:00",
 				"url": "https://updates.wcaleb.org/2026/03/17/spring-break-means-im-working.html"
 			},
@@ -130,7 +138,7 @@
 				"id": "http://wcaleb.micro.blog/2026/03/13/yesterday-i-had-the-privilege.html",
 				
 				"content_html": "<p>Yesterday, I had the privilege of taking some Rice students to the law offices of <a href=\"https://www.bakerbotts.com/\">Baker Botts LLP</a>, where we were given a tour of the firm’s historic records by senior partner <a href=\"https://www.bakerbotts.com/people/k/kroger-bill\">Bill Kroger</a>.</p>\n<p>One of the fascinating things we saw was this law book belonging to firm co-founder <a href=\"https://www.tshaonline.org/handbook/entries/gray-peter-w\">Peter W. Gray</a>, into which Gray had apparently cut and pasted General Gordon Granger’s Juneteenth orders from 1865, before a section on the Reconstruction amendments.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yesterday, I had the privilege of taking some Rice students to the law offices of [Baker Botts LLP](https://www.bakerbotts.com/), where we were given a tour of the firm’s historic records by senior partner [Bill Kroger](https://www.bakerbotts.com/people/k/kroger-bill).\n\nOne of the fascinating things we saw was this law book belonging to firm co-founder [Peter W. Gray](https://www.tshaonline.org/handbook/entries/gray-peter-w), into which Gray had apparently cut and pasted General Gordon Granger’s Juneteenth orders from 1865, before a section on the Reconstruction amendments.\n\n<img src=\"https://updates.wcaleb.org/uploads/2026/574ce1c669.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Yesterday, I had the privilege of taking some Rice students to the law offices of [Baker Botts LLP](https://www.bakerbotts.com/), where we were given a tour of the firm’s historic records by senior partner [Bill Kroger](https://www.bakerbotts.com/people/k/kroger-bill).\n\nOne of the fascinating things we saw was this law book belonging to firm co-founder [Peter W. Gray](https://www.tshaonline.org/handbook/entries/gray-peter-w), into which Gray had apparently cut and pasted General Gordon Granger’s Juneteenth orders from 1865, before a section on the Reconstruction amendments.\n\n<img src=\"uploads/2026/574ce1c669.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2026-03-13T07:36:47-05:00",
 				"url": "https://updates.wcaleb.org/2026/03/13/yesterday-i-had-the-privilege.html"
 			},
