@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://wcaleb.micro.blog/2026/06/05/grateful-to-have-a-writeup.html",
+				
+				"content_html": "<p>Grateful to have a <a href=\"https://research.rice.edu/news/origin-story\">write-up</a> by Katharine Shilcutt for Rice&rsquo;s research magazine about <a href=\"http://wcaleb.org/books/slavery-segregation-and-second-founding-of-rice\">SSSFRU</a>.</p>\n",
+				"content_text": "Grateful to have a [write-up](https://research.rice.edu/news/origin-story) by Katharine Shilcutt for Rice's research magazine about [SSSFRU](http://wcaleb.org/books/slavery-segregation-and-second-founding-of-rice).\n",
+				"date_published": "2026-06-05T08:40:54-05:00",
+				"url": "https://updates.wcaleb.org/2026/06/05/grateful-to-have-a-writeup.html"
+			},
+			{
 				"id": "http://wcaleb.micro.blog/2026/06/03/new-post-how-arlington-house.html",
 				
 				"content_html": "<p>NEW POST: How &ldquo;Arlington House&rdquo; Became &ldquo;The Robert E. Lee Memorial.&rdquo; <a href=\"http://wcaleb.org/blog/arlington-house\">Read more &hellip;</a></p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://wcaleb.micro.blog/2026/05/13/its-commencement-season-thats-me.html",
 				
 				"content_html": "<p>It&rsquo;s commencement season! That&rsquo;s me in the bumblebee suit on Saturday night, seated next to my dear colleague José Aranda. (Credit: Rosie Nguyen)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's commencement season! That's me in the bumblebee suit on Saturday night, seated next to my dear colleague José Aranda. (Credit: Rosie Nguyen)\n\n<img src=\"uploads/2026/dsc00991.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "It's commencement season! That's me in the bumblebee suit on Saturday night, seated next to my dear colleague José Aranda. (Credit: Rosie Nguyen)\n\n<img src=\"https://updates.wcaleb.org/uploads/2026/dsc00991.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2026-05-13T09:02:58-05:00",
 				"url": "https://updates.wcaleb.org/2026/05/13/its-commencement-season-thats-me.html"
 			},
