@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://wcaleb.micro.blog/2026/06/12/rice-news-has-a-story.html",
+				
+				"content_html": "<p><a href=\"https://news.rice.edu/news/2026/houston-was-first-rice-historian-uncovers-origins-juneteenth-celebrations\">Rice News</a> has a story about my new research into Houston’s inaugural celebration of Juneteenth.</p>\n",
+				"content_text": "[Rice News](https://news.rice.edu/news/2026/houston-was-first-rice-historian-uncovers-origins-juneteenth-celebrations) has a story about my new research into Houston’s inaugural celebration of Juneteenth.\n",
+				"date_published": "2026-06-12T07:11:35-05:00",
+				"url": "https://updates.wcaleb.org/2026/06/12/rice-news-has-a-story.html"
+			},
+			{
 				"id": "http://wcaleb.micro.blog/2026/06/10/updated-some-notes-in-my.html",
 				
 				"content_html": "<p>Updated some notes in my open research notebook: <a href=\"http://wiki.wcaleb.rice.edu/_diff/Arlington%20House?to=ee97bc8dbce846ccf5656a3f598e815475178038\">Arlington House</a>, <a href=\"http://wiki.wcaleb.rice.edu/_diff/Juneteenth?to=ee97bc8dbce846ccf5656a3f598e815475178038\">Juneteenth</a>, <a href=\"http://wiki.wcaleb.rice.edu/_diff/Refugeed%20Slaves?to=ee97bc8dbce846ccf5656a3f598e815475178038\">Refugeed Slaves</a>.</p>\n",
