@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://wcaleb.micro.blog/2026/08/19/this-morning-i-spoke-to.html",
+				
+				"content_html": "<p>This morning I spoke to all the matriculating doctoral students at Rice University. I told the story of <a href=\"https://updates.wcaleb.org/2024/12/17/ntozake-shange-and.html\">Dr. Julius S. Scott</a> and &ldquo;<a href=\"https://www.publicbooks.org/julius-s-scott-iii-1955-2021-the-common-wind/\">The Dissertation</a>.&rdquo;</p>\n<img src=\"uploads/2026/julius-scott-slides.png\" width=\"600\" height=\"304\" alt=\"Slides from a powerpoint presentation about historian Julius S. Scott\">\n",
+				"content_text": "This morning I spoke to all the matriculating doctoral students at Rice University. I told the story of [Dr. Julius S. Scott](https://updates.wcaleb.org/2024/12/17/ntozake-shange-and.html) and \"[The Dissertation](https://www.publicbooks.org/julius-s-scott-iii-1955-2021-the-common-wind/).\"\n\n<img src=\"uploads/2026/julius-scott-slides.png\" width=\"600\" height=\"304\" alt=\"Slides from a powerpoint presentation about historian Julius S. Scott\">\n",
+				"date_published": "2026-08-19T10:15:24-05:00",
+				"url": "https://updates.wcaleb.org/2026/08/19/this-morning-i-spoke-to.html"
+			},
+			{
 				"id": "http://wcaleb.micro.blog/2026/08/14/an-ezproxy-shortcut.html",
 				"title": "An EZProxy Shortcut",
 				"content_html": "<p>I hacked together <a href=\"https://www.icloud.com/shortcuts/8dbfa920b1a24047aa861e864fee7aed\">an iPhone shortcut</a> that helps when I hit certain paywalls.</p>\n<p>The use case: I’m on the page for a journal article that the Rice library should have access to, but it’s saying I don’t.</p>\n<p>Rice’s library uses <a href=\"https://en.wikipedia.org/wiki/EZproxy\">EZProxy</a>, so what I need to do is modify the URL slightly in order to trigger logging in to my institution’s access.</p>\n<p>Now I just “share” the page with my shortcut, and it opens the page with the modified URL so that I can read it.</p>\n<p>Probably pretty brittle, but it seems to be working with the sites where the issue usually arises (e.g., JSTOR, Muse, Chronicle). It might work with other institutions, too, if you modify the text variable in the shortcut that refers to Rice.</p>\n<p>Here’s a <a href=\"https://updates.wcaleb.org/uploads/2026/ezproxy-shortcut.gif\">GIF animation</a> of the shortcut in action.</p>\n",
@@ -49,8 +57,8 @@
 			{
 				"id": "http://wcaleb.micro.blog/2026/07/16/still-gathering-my-thoughts-for.html",
 				
-				"content_html": "<p>Still gathering my thoughts for this Saturday&rsquo;s <a href=\"https://iona.zoom.us/webinar/register/WN_v2EPzxj6Q0ukh3ANeODIGA#/registration\">session</a> honoring Jim Stewart at #SHEAR2026.</p>\n<img src=\"uploads/2026/8fc0e88280.jpg\" width=\"600\" height=\"450\" alt=\"Photograph of handwritten notes and a page from the preface of a book by Jim Stewart\">\n",
-				"content_text": "Still gathering my thoughts for this Saturday's [session](https://iona.zoom.us/webinar/register/WN_v2EPzxj6Q0ukh3ANeODIGA#/registration) honoring Jim Stewart at #SHEAR2026.\n\n<img src=\"uploads/2026/8fc0e88280.jpg\" width=\"600\" height=\"450\" alt=\"Photograph of handwritten notes and a page from the preface of a book by Jim Stewart\">\n",
+				"content_html": "<p>Still gathering my thoughts for this Saturday&rsquo;s <a href=\"https://iona.zoom.us/webinar/register/WN_v2EPzxj6Q0ukh3ANeODIGA#/registration\">session</a> honoring Jim Stewart at #SHEAR2026.</p>\n<img src=\"https://updates.wcaleb.org/uploads/2026/8fc0e88280.jpg\" width=\"600\" height=\"450\" alt=\"Photograph of handwritten notes and a page from the preface of a book by Jim Stewart\">\n",
+				"content_text": "Still gathering my thoughts for this Saturday's [session](https://iona.zoom.us/webinar/register/WN_v2EPzxj6Q0ukh3ANeODIGA#/registration) honoring Jim Stewart at #SHEAR2026.\n\n<img src=\"https://updates.wcaleb.org/uploads/2026/8fc0e88280.jpg\" width=\"600\" height=\"450\" alt=\"Photograph of handwritten notes and a page from the preface of a book by Jim Stewart\">\n",
 				"date_published": "2026-07-16T08:27:21-05:00",
 				"url": "https://updates.wcaleb.org/2026/07/16/still-gathering-my-thoughts-for.html"
 			},
